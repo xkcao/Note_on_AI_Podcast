@@ -16,7 +16,7 @@ So what actually separate an oil drop from a tadpole?
 The key is movement. An oil drop can indeed move, but the movement is driven by external states. 
 Whereas a tadpole can deliberately move, which is driven by its internal states. 
 
-###Consciousness
+### Consciousness
 
 Given the above discussion on Living system, is it possible to define consciousness using the same framework?
 
