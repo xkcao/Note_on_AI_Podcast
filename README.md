@@ -28,3 +28,10 @@ about the information, paths, etc. It has another level of autonomy.
 
 So, can we draw a line between conscious and non-conscious system? 
 It needs to have the ability to plan for the future. To do so, it needs to have the notion of future status.
+
+### Self-awareness
+
+Self-awareness can be seen as an advanced level of consciousness.
+
+It happened in evolution most likely because of the need of collaboration with other similar systems.
+A human needs to know it's himself talking, not others, if he needs to communicate with other humans.  
