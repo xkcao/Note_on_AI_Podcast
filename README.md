@@ -35,3 +35,22 @@ Self-awareness can be seen as an advanced level of consciousness.
 
 It happened in evolution most likely because of the need of collaboration with other similar systems.
 A human needs to know it's himself talking, not others, if he needs to communicate with other humans.  
+
+
+## Alexandar Fridman: the Plasma Physicist
+
+### Father and immigration
+
+An interesting discussion between Lex Fridman and his father. 
+
+They talked about lots of things. One topic which may touch the heart of many immigrants is that Lex said it was very 
+difficult for him when his family immigrated from Russia to US. He also said that he never felt personally very close to his father. 
+
+From his father's perspective, the move to US meant lots of new opportunities for his family and was certainly a big deal. 
+However, for him personally, it just meant a big culture shift, and he lost his close friends. He was probably in Middle 
+school or Elementary school. He described that it was like his father only focused on building the boat or make the boat
+bigger, but not so much interested in the feelings of the people living in the boat.
+
+Lex asked his father whether this is a Russian thing. His father said that it was not a Russian thing, but more of a Jewish 
+or Immigrant thing. He said that he was always very careful in his life. He sees a lot of dangers, and he was always worried that
+if one thing does not go well, everything will just crash.
