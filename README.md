@@ -54,3 +54,7 @@ bigger, but not so much interested in the feelings of the people living in the b
 Lex asked his father whether this is a Russian thing. His father said that it was not a Russian thing, but more of a Jewish 
 or Immigrant thing. He said that he was always very careful in his life. He sees a lot of dangers, and he was always worried that
 if one thing does not go well, everything will just crash.
+
+### The meaning of life
+
+Alexandre F. said that the meaning of life is to enjoy today and to be prepared for tomorrow.
