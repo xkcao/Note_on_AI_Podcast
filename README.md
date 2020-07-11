@@ -58,3 +58,7 @@ if one thing does not go well, everything will just crash.
 ### The meaning of life
 
 Alexandre F. said that the meaning of life is to enjoy today and to be prepared for tomorrow.
+
+## Kate Darling: Social Robotics
+
+## Joscha Bach: Artificial Consciousness and the Nature of Reality
