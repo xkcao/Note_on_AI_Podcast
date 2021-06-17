@@ -62,3 +62,9 @@ Alexandre F. said that the meaning of life is to enjoy today and to be prepared 
 ## Kate Darling: Social Robotics
 
 ## Joscha Bach: Artificial Consciousness and the Nature of Reality
+
+## Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction
+Every new type of Technology creates an Arms race.
+
+It's harder to measure happiness than to measure comfort. Industrial revolution is to increase comfort.
+
