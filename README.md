@@ -1,11 +1,9 @@
 # Note_on_AI_Podcast
-
 This repository is to capture some notes/thoughts while listening to Lex Fridman's AI podcast.
 
 ## Karl Friston: Neuroscience and the Free Energy Principle
 
 ### Living System
-
 A beautiful discussion regarding the difference between living system and existing system.  
 
 An oil drop on the surface of water can be seen as an existing system. It has its internal part,
@@ -17,7 +15,6 @@ The key is movement. An oil drop can indeed move, but the movement is driven by 
 Whereas a tadpole can deliberately move, which is driven by its internal states. 
 
 ### Consciousness
-
 Given the above discussion on Living system, is it possible to define consciousness using the same framework?
 
 We can argue that a virus has an agency in the way that it selectively finds hosts/cells to live in and move around.
@@ -30,7 +27,6 @@ So, can we draw a line between conscious and non-conscious system?
 It needs to have the ability to plan for the future. To do so, it needs to have the notion of future status.
 
 ### Self-awareness
-
 Self-awareness can be seen as an advanced level of consciousness.
 
 It happened in evolution most likely because of the need of collaboration with other similar systems.
@@ -40,7 +36,6 @@ A human needs to know it's himself talking, not others, if he needs to communica
 ## Alexandar Fridman: the Plasma Physicist
 
 ### Father and immigration
-
 An interesting discussion between Lex Fridman and his father. 
 
 They talked about lots of things. One topic which may touch the heart of many immigrants is that Lex said it was very 
@@ -56,7 +51,6 @@ or Immigrant thing. He said that he was always very careful in his life. He sees
 if one thing does not go well, everything will just crash.
 
 ### The meaning of life
-
 Alexandre F. said that the meaning of life is to enjoy today and to be prepared for tomorrow.
 
 ## Kate Darling: Social Robotics
@@ -68,3 +62,5 @@ Every new type of Technology creates an Arms race.
 
 It's harder to measure happiness than to measure comfort. Industrial revolution is to increase comfort.
 
+## Charles Hoskinson: Cardano
+Cardano is the third generation of blockchain technology.
