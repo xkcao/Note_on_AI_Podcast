@@ -64,3 +64,6 @@ It's harder to measure happiness than to measure comfort. Industrial revolution 
 
 ## Charles Hoskinson: Cardano
 Cardano is the third generation of blockchain technology.
+
+## Rob Reid: The Existential Threat of Engineered Viruses and Lab Leaks
+There are more opportunities to get to the top at the intersection of multiple fields, especially emerging ones.
