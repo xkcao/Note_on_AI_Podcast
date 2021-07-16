@@ -73,3 +73,9 @@ There are more opportunities to get to the top at the intersection of multiple f
 ## Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic
 
 ## Robert Breedlove: Philosophy of Bitcoin from First Principles
+
+## Michael Malice: Totalitarianism and Anarchy
+
+## Roger Reaves: Smuggling Drugs for Pablo Escobar and the Medellin Cartel
+
+## Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics
