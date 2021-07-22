@@ -79,3 +79,5 @@ There are more opportunities to get to the top at the intersection of multiple f
 ## Roger Reaves: Smuggling Drugs for Pablo Escobar and the Medellin Cartel
 
 ## Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics
+
+## Rick Doblin: Psychedelics
