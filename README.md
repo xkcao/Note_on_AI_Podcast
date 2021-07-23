@@ -81,3 +81,5 @@ There are more opportunities to get to the top at the intersection of multiple f
 ## Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics
 
 ## Rick Doblin: Psychedelics
+
+## Konstantin Batygin: Planet 9 and the Edge of Our Solar System
