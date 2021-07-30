@@ -83,3 +83,5 @@ There are more opportunities to get to the top at the intersection of multiple f
 ## Rick Doblin: Psychedelics
 
 ## Konstantin Batygin: Planet 9 and the Edge of Our Solar System
+
+## Cumrun Vafa: String Theory
