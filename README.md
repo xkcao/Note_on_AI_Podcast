@@ -85,3 +85,5 @@ There are more opportunities to get to the top at the intersection of multiple f
 ## Konstantin Batygin: Planet 9 and the Edge of Our Solar System
 
 ## Cumrun Vafa: String Theory
+
+## Ishan Misra: Self-Supervised Deep Learning in Computer Vision 
