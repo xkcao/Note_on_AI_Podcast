@@ -87,3 +87,5 @@ There are more opportunities to get to the top at the intersection of multiple f
 ## Cumrun Vafa: String Theory
 
 ## Ishan Misra: Self-Supervised Deep Learning in Computer Vision 
+
+## Chris Duffin: The Mad Scientist of Strength
