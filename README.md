@@ -89,3 +89,6 @@ There are more opportunities to get to the top at the intersection of multiple f
 ## Ishan Misra: Self-Supervised Deep Learning in Computer Vision 
 
 ## Chris Duffin: The Mad Scientist of Strength
+
+## Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI
+- GitHub Copilot
