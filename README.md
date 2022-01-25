@@ -92,3 +92,5 @@ There are more opportunities to get to the top at the intersection of multiple f
 
 ## Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI
 - GitHub Copilot
+
+## Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning
